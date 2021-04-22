@@ -1,0 +1,1 @@
+Quick mini project on Odin Project to recreate the google homepage without having the links etc working - basic HTML and CSS. 
